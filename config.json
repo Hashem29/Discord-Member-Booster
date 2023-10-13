@@ -1,5 +1,5 @@
 {
-    "captcha_key": "", 
+    "captcha_key": "https://discord.gg/mMBjMq2x", 
     "invite": "",
     "threads": 69,
     "proxy_scraper": "y",
@@ -7,6 +7,6 @@
     "online_tokens": "y",
 
     "join_voice": "n",
-    "channel_id": "",
-    "server_id": ""
+    "channel_id": "965688767530819597",
+    "server_id": "965688767530819594"
 }
